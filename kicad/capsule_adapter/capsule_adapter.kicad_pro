@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.254
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -120,12 +120,16 @@
       },
       "track_widths": [
         0.0,
-        0.5
+        1.0
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 2.5,
+          "drill": 2.0
         }
       ],
       "zones_allow_external_fillets": false,
@@ -347,7 +351,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "diy_mm.kicad_pro",
+    "filename": "capsule_adapter.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -381,7 +385,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "capsule_adapter.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -424,11 +428,6 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [
-    [
-      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
-      ""
-    ]
-  ],
+  "sheets": [],
   "text_variables": {}
 }
