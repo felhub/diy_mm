@@ -5,6 +5,15 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "diy_mm")
+    (date "2022-02-04")
+    (rev "v02")
+    (company "Author: felhub")
+    (comment 1 "Reference 2: https://sound-au.com/articles/mic-electret.htm")
+    (comment 2 "Reference 1: https://sound-au.com/project93.htm")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
