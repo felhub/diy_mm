@@ -379,7 +379,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "main_board.net",
       "specctra_dsn": "",
       "step": "main_board.step",
       "vrml": ""
