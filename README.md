@@ -1,6 +1,6 @@
 # diy_mm
 
-Low cost measurement microphone powered by +48V phantom power using a cheap electret capsule.
+Low cost (less than 10€) measurement microphone powered by +48V phantom power using a cheap electret capsule.
 
 ![](./img/diy_mm.jpg)
 
