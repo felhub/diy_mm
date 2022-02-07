@@ -8,7 +8,9 @@ Low cost (less than 10€) measurement microphone powered by +48V phantom power 
 
 ![](./img/main_board_sch.jpg)
 
-The impedance converter is based on an electret mic preamp from [Rod Elliot](https://sound-au.com). Some small changes were made to fit the converter to the capsule and to use smaller capacitors to fit it into the housing. Unfortunately these changes also effect the performance slightly. If space does not matter for you, Rod is selling his original PCBs on his site.
+The impedance converter is based on an electret mic preamp from [Rod Elliot](https://sound-au.com), big thanks to the work he does on his site. He also has a store, where you can buy his original PCB for this amp, and many others. You can also donate there.  
+
+Some small changes were made to fit the converter to the capsule and to use smaller capacitors to fit it into the housing. Unfortunately these changes also effect the performance slightly.
 
 In order to connect the PCB to the capsule and also to fix the capsule in place a small adapter PCB is used. This PCB is clamped in the 3d printed housing an soldered onto the converters PCB.
 
