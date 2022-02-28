@@ -1,8 +1,27 @@
 # diy_mm
 
-Low cost (less than 10€) measurement microphone powered by +48V phantom power using a cheap electret capsule.
-
 ![](./img/diy_mm.jpg)
+Low cost (less than 10€) measurement microphone powered by +48V phantom power using a cheap electret capsule.
+### Technical Data
+| spec | value | unit |
+|:-----------------------------:|:----------------------------------:|:---:|
+| Frequency Response | 20 to 20000 &pm; ?dB | Hz |
+| Polar Pattern | Omnidirectional | - |
+| Sensititvity | ? | mV/Pa @ 1kHz |
+| Power requirements | +12 to +48 | V |
+| Max acoustic input | 140dB | SPL |
+| Output | XLR-3 (balanced) | - |
+| Output Impedance | 100? | Ohm |
+| Noise | ?dB | SPL |
+| Temp Operating Range | ? to ? | °C |
+| Dimensions L x D | 105 x 12 | mm |
+| Weight | ? | g |
+
+### Measured Frequency Response
+
+![frequency response](./img/fr_measured.jpg)
+
+
 
 ## Impedance Converter and capsule adapter (kicad)
 
@@ -10,7 +29,7 @@ Low cost (less than 10€) measurement microphone powered by +48V phantom power 
 
 The impedance converter is based on an electret mic preamp from [Rod Elliot](https://sound-au.com), big thanks to the work he does on his site. He also has a store, where you can buy his original PCB for this amp, and many others. You can also donate there.  
 
-Some small changes were made to fit the converter to the capsule and to use smaller capacitors to fit it into the housing. Unfortunately these changes also effect the performance slightly.
+Some changes were made to fit the converter to the capsule and to use smaller capacitors to fit it into the housing. Unfortunately these changes also effect the performance slightly.
 
 In order to connect the PCB to the capsule and also to fix the capsule in place a small adapter PCB is used. This PCB is clamped in the 3d printed housing an soldered onto the converters PCB.
 
