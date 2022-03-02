@@ -11,9 +11,9 @@ Low cost (less than 10€) measurement microphone powered by +48V phantom power 
 | Power requirements | +12 to +48 | V |
 | Max acoustic input | 140dB | SPL |
 | Output | XLR-3 (balanced) | - |
-| Output Impedance | 100? | Ohm |
+| Output Impedance | 100 | Ohm |
 | Noise | ?dB | SPL |
-| Temp Operating Range | ? to ? | °C |
+| Temp Operating Range | -20 to 70 | °C |
 | Dimensions L x D | 105 x 12 | mm |
 | Weight | ? | g |
 
