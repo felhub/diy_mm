@@ -3,19 +3,19 @@
 ![](./img/diy_mm.jpg)
 Low cost (less than 10€) measurement microphone powered by +48V phantom power using a cheap electret capsule.
 ### Technical Data
-| spec | value | unit |
-|:-----------------------------:|:----------------------------------:|:---:|
-| Frequency Response | 20 to 20000 &pm; ?dB | Hz |
-| Polar Pattern | Omnidirectional | - |
-| Sensititvity | ? | mV/Pa @ 1kHz |
-| Power requirements | +12 to +48 | V |
-| Max acoustic input | 140dB | SPL |
-| Output | XLR-3 (balanced) | - |
-| Output Impedance | 100 | Ohm |
-| Noise | ?dB | SPL |
-| Temp Operating Range | -20 to 70 | °C |
-| Dimensions L x D | 105 x 12 | mm |
-| Weight | ? | g |
+| spec                  | value                 | unit          | measured  |
+|:---------------------:|:---------------------:|:-------------:|:---------:|
+| Frequency Response    | 20 to 20000 &pm; ?dB  | Hz            | n         |
+| Polar Pattern         | Omnidirectional       | -             | n         |
+| Sensititvity          | 0.012                 | V/Pa @ 1kHz   | n         |
+| Power requirements    | +12 to +48            | V             | y         |
+| Max acoustic input    | 140dB                 | SPL           | y         |
+| Output                | XLR-3 (balanced)      | -             | y         |
+| Output Impedance      | 100                   | Ohm           | n         |
+| Signal to Noise       | 60dBA                 | SPL           | n         |
+| Temp Operating Range  | -20 to 70             | °C            | y         |
+| Dimensions L x D      | 105 x 12              | mm            | y         |
+| Weight                | ?                     | g             | y         |
 
 ### Measured Frequency Response
 
