@@ -14,7 +14,7 @@ Low cost (less than 10€) measurement microphone powered by +48V phantom power 
 | Output Impedance      | 100                   | Ohm           | n         |
 | Signal to Noise       | 60dBA                 | SPL           | n         |
 | Temp Operating Range  | -20 to 70             | °C            | y         |
-| Dimensions L x D      | 105 x 12              | mm            | y         |
+| Dimensions L x D      | 107.2 x 12            | mm            | y         |
 | Weight                | ?                     | g             | y         |
 
 ### Measured Frequency Response
