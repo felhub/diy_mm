@@ -5,7 +5,7 @@ Low cost (less than 10€) measurement microphone powered by +48V phantom power 
 ### Technical Data
 | spec                  | value                 | unit          | measured  |
 |:---------------------:|:---------------------:|:-------------:|:---------:|
-| Frequency Response    | 20 to 20000 &pm; ?dB  | Hz            | n         |
+| Frequency Response    | 20 to 20000 &pm; 3dB  | Hz            | n         |
 | Polar Pattern         | Omnidirectional       | -             | n         |
 | Sensititvity          | 0.012                 | V/Pa @ 1kHz   | n         |
 | Power requirements    | +12 to +48            | V             | y         |
