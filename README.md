@@ -7,7 +7,7 @@ Low cost (less than 10€) measurement microphone powered by +48V phantom power 
 |:---------------------:|:---------------------:|:-------------:|:---------:|
 | Frequency Response    | 20 to 20000 &pm; 3dB  | Hz            | n         |
 | Polar Pattern         | Omnidirectional       | -             | n         |
-| Sensititvity          | 0.012                 | V/Pa @ 1kHz   | n         |
+| Sensititvity          | 0.013                 | V/Pa @ 1kHz   | y         |
 | Power requirements    | +12 to +48            | V             | y         |
 | Max acoustic input    | 140dB                 | SPL           | y         |
 | Output                | XLR-3 (balanced)      | -             | -         |
