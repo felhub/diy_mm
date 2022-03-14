@@ -3,6 +3,7 @@
 ![](./img/diy_mm.jpg)
 Low cost (less than 10€) measurement microphone powered by +48V phantom power using a cheap electret capsule.
 ### Technical Data
+
 | spec                  | value                 | unit          | measured  |
 |:---------------------:|:---------------------:|:-------------:|:---------:|
 | Frequency Response    | 20 to 20000 &pm; 3dB  | Hz            | n         |
@@ -51,4 +52,8 @@ The fixture for capsule, impedance converter and strain relief if the cable are 
 
 Through a hole in the chassis at the strain relief side, the shielding can be fed through in order to touch the aluminium tube. The hole assembly slides tightly inside and is just hold by friction. To get it back out one has to firstly pull on the cable slightly, after the first o-ring is out one should pull on the plastic to fully slide out the main assembly.
 
-![](./img/shield.jpg)
+## Array configuration
+![](./img/diy_mm_array.jpg)
+
+
+
